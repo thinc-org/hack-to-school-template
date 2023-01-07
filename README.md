@@ -9,11 +9,11 @@ Remember, the goal is not to be perfect, but to learn and grow as a team. So let
 ## Rules
 
 1. We provide you with two types of requirements: "Must Done" and "Optional".
-- "Must Done" requirements are essential and are designed for everyone. They are generally easier and have a significant score value.
-- "Optional" requirements are optional, and the score value varies from low to very high. You should aim to score as much as possible, as this can help you win. It is important to plan wisely before deciding which requirements to complete.
-1. Your final commit must be made before **13 Jan 23:59**.
-2. Please do not allow anyone outside of your team to work on your behalf.
-3. If you have any questions, feel free to ask our staff in the Thinc. Discord.
+  - "Must Done" requirements are essential and are designed for everyone. They are generally easier and have a significant score value.
+  - "Optional" requirements are optional. The score value varies from low to very high. You should aim to score as much as possible, as this can help you win. It is important to plan wisely before deciding which requirements to complete.
+2. Your final commit must be made before **13 Jan 23:59**.
+3. Please do not allow anyone outside of your team to work on your behalf.
+4. If you have any questions, feel free to ask our staff in the Thinc. Discord.
 
 ## Resources
 | Resource | |
