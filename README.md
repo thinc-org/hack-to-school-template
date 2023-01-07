@@ -16,7 +16,8 @@ Remember, the goal is not to be perfect, but to learn and grow as a team. So let
 3. If you have any questions, feel free to ask our staff in the Thinc. Discord.
 
 ## Resources
-
+| Resource | |
+| --- | --- |
 | Rubrics | https://docs.google.com/spreadsheets/d/1lV1BqhKLklh9ixCBJ2WjzpVy1AR2j49v53-0WT49_8E/edit?usp=sharing |
 | Feature Roadmap | https://www.figma.com/file/wYrSP9zjycwSfLubK76zSf/Roadmap?node-id=0%3A1&t=lpkFFQRFhL994AS4-1 |
 | Design | https://www.figma.com/file/VzZKRoYAurw0XhgNuzrHwa/E-Learning-Platform-(Community)?node-id=2228%3A2735&t=aTj89L6fB0EptOfh-1 |
