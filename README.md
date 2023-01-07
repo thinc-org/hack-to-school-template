@@ -1,6 +1,6 @@
 # hack to school
 
-Welcome everyone to hack to school hackathon! Today, we will be putting the skills that we've learned in the past event, 10 Days Project, to work by collaborating with your team and tackling some challenges together.
+Welcome everyone to hack to school hackathon! Today, we will be putting the skills that we've learned in the past event, the 10 Days Project, to work by collaborating with your team and tackling some challenges together.
 
 This event is designed to help you improve your coding skills and work more effectively as a team. You should update your work with your team, communicating with other members, and using your competitive spirit to push yourselves out of your comfort zones and take on more difficult tasks.
 
