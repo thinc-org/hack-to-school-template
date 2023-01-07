@@ -1,10 +1,12 @@
+# Hack To School
+
 Welcome everyone to Hack to school hackathon! Today, we will be putting the skills that we've learned in the past event 10 Days Project work by collaborating with your team and tackling some challenges together.
 
 This event is designed to help you improve your coding skills and work more effectively as a team. You should update your work with your team, communicating with other members, and using your competitive spirit to push yourselves out of your comfort zones and take on more difficult tasks.
 
 Remember, the goal is not to be perfect, but to learn and grow as a team. So let's get started and see what we can accomplish together!
 
-## **Rules**
+## Rules
 
 1. We provide you with two types of requirements: "Must Done" and "Optional".
 - "Must Done" requirements are essential and are designed for everyone. They are generally easier and have a significant score value.
@@ -16,7 +18,6 @@ Remember, the goal is not to be perfect, but to learn and grow as a team. So let
 ## Resources
 
 | Rubrics | https://docs.google.com/spreadsheets/d/1lV1BqhKLklh9ixCBJ2WjzpVy1AR2j49v53-0WT49_8E/edit?usp=sharing |
-| --- | --- |
 | Feature Roadmap | https://www.figma.com/file/wYrSP9zjycwSfLubK76zSf/Roadmap?node-id=0%3A1&t=lpkFFQRFhL994AS4-1 |
 | Design | https://www.figma.com/file/VzZKRoYAurw0XhgNuzrHwa/E-Learning-Platform-(Community)?node-id=2228%3A2735&t=aTj89L6fB0EptOfh-1 |
 | Handbook | https://docs.google.com/document/d/1AkiNZzshcbYGiRp3mD0PCXUHWG6WtaOmzJMd6YfZj6Q/edit?usp=sharing |
